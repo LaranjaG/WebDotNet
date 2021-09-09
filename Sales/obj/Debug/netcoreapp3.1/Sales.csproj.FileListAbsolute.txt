@@ -158,3 +158,10 @@ C:\Users\joaoj\source\repos\Sales\Sales\obj\Debug\netcoreapp3.1\Razor\Views\Depa
 C:\Users\joaoj\source\repos\Sales\Sales\obj\Debug\netcoreapp3.1\Razor\Views\Departments\Edit.cshtml.g.cs
 C:\Users\joaoj\source\repos\Sales\Sales\obj\Debug\netcoreapp3.1\Razor\Views\Departments\Index.cshtml.g.cs
 C:\Users\joaoj\source\repos\Sales\Sales\obj\Debug\netcoreapp3.1\Razor\Views\Sellers\Index.cshtml.g.cs
+C:\Users\joaoj\source\repos\Sales\Sales\obj\Debug\netcoreapp3.1\Razor\Views\Sellers\Create.cshtml.g.cs
+C:\Users\joaoj\source\repos\Sales\Sales\obj\Debug\netcoreapp3.1\Razor\Views\Sellers\Delete.cshtml.g.cs
+C:\Users\joaoj\source\repos\Sales\Sales\obj\Debug\netcoreapp3.1\Razor\Views\Sellers\Details.cshtml.g.cs
+C:\Users\joaoj\source\repos\Sales\Sales\obj\Debug\netcoreapp3.1\Razor\Views\Sellers\Edit.cshtml.g.cs
+C:\Users\joaoj\source\repos\Sales\Sales\obj\Debug\netcoreapp3.1\Razor\Views\SalesRecords\GroupSearch.cshtml.g.cs
+C:\Users\joaoj\source\repos\Sales\Sales\obj\Debug\netcoreapp3.1\Razor\Views\SalesRecords\Index.cshtml.g.cs
+C:\Users\joaoj\source\repos\Sales\Sales\obj\Debug\netcoreapp3.1\Razor\Views\SalesRecords\SimpleSearch.cshtml.g.cs
